@@ -1,0 +1,92 @@
+# 1.-IDENTIFICADOR de genes de la familia ATG18 en Arabidopsis thaliana 
+
+>AtATG18g.AT1G03380.1
+>AtATG18h.AT1G54710.1
+>AtATG18c.AT2G40810.1
+>AtATG18d.AT3G56440.1
+>AtATG18a.AT3G62770.1
+>AtATG18b.AT4G30510.1
+>AtATG18e.AT5G05150.1
+>AtATG18f.AT5G54730.1
+
+# 2.-BÚSQUEDA Y EXTRACCIÓN  DE SEQUENCIA de ADN, ARN y proteína en TAIR
+     https://www.arabidopsis.org/about/index.jsp
+   #Usando el nombre común y con el identificador 
+        #ATG18
+        #AT4G30510
+
+# 3.- Características de ATG18 en TAIR
+        # Biological Process 
+        #Cellular Component
+        # Molecular Function 
+        # Plant Structure
+# 4.- Desde TAIR pasar a Ensembl Plants
+        # Buscar la posición exacta del cromosoma de AT4G30510 (summary)
+# 5.- Entrar a Phytomine y extraer la secuencia genómica y de proteína de AT4G30510
+
+
+
+>AtATG18b.I.AT4G30510.1
+MANLSSLPSPIYCVSFNQDNSGFAISWKDSFKIFDSTTGRLCYERAAGAFVIVEMLYSSD
+LLAIVGAGEQASLSPRRLCLFKTTTGLPLRELNFLTSILAVRMNKKRLVVVLLEKTFVYD
+LNTLVMLDTIDTVPNPKGLSAFSPSLEGCYLAVPASTTKGSVLVYNVMDLQSHSEIDAHR
+SPLAAIALSSNGMYIATGSEQGTLIRVHLVSEATKSYSFRRGTYPSTIYSLSFGPSTQLP
+DILIATSSSGSIHAFSLSLAINQRSKRSTSFLGSVLPDSVSDALDPAHHHVLQNAVSSGI
+RSYAVVRKIDKLEGTSSPSHFTSLRATVSVITYNGYFQEYTLSINNKNESLWTLEREFNL
+FSITTG
+
+############################BLAST#######################################################
+#######Basic Local Alignment Search Tool
+#https://blast.ncbi.nlm.nih.gov/Blast.cgi
+
+####BLASTn
+#usando la secuencia 
+>AT4G30510
+tggcgaatctgtcctctcttccttctcctatctattgtgtttctttcaatcaagataaca
+ggtgagttcttcttatttatttgaaaatcgttgaagatagcgaattcgattctcttagta
+gattttcgaggaaaagttcttctcagataacgtaactcagaagctgcccttttattgttg
+tttgatggctgttcgattattgcagtggttttgcgataagttggaaagattccttcaaaa
+tattcgattccactacaggcagactctgctatgaacgaggcaagttttatctgttcgttt
+tggttctgcagtttctgtgttttaatcaaaagatccaacttttgttgtctatatccttta
+aattgaatccgtgggcgtttataattgatggatttgatagaaaacttggttagatgaatc
+gaaatcttaagtatgatctgatattgaagacaacttcctgtaatgcagttgcagacatta
+aacacttattaatgttgtaaattttagattggttagtgtctgaatattgatgatacctgg
+taaaaaaagctaatgcaattggcataagatcatccttattccaagcttcaatttttactt
+taaaactgtgtattgaagtttttttttcccttttgtttgtttttttgttagctgctggag
+cctttgttattgttgagatgttgtatagctcagatctacttgcaattgttggagctggtg
+aacaggtttgtgcttgataaacattattcgataatcagatttgatctttgtttgattaag
+gaaaatttcatatatataggcttctctatccccacggcgtctttgtttgttcaagaccac
+aacgggtttacctcttagggaattgaattttttaacttctatactcgctgttcgtatgaa
+caagaaaaggtttgttaccgaacttatgacttcagattgttgtttgttttgtctttgaga
+gtgtgaattcatggttctgtgattgcttcttatcagacttgttgttgtgctgctagagaa
+aacattcgtttacgacttgaatactcttgtcatgcttgatactatcgacaccgtgccaaa
+tccaaaaggtatctcattaagttccctttgtcagtttttaccgtattagttcattgtaaa
+cagacatgtaaatgtatatcttcgttcaggtctatctgcattctctccatctcttgaagg
+ctgctacttagctgttccagctagtacgacgaaaggatctgttttggtgtataacgtcat
+ggatttgcagtctcatagtgaggtttactagatgcttcacctgatttttggtttaaattt
+ctaatttgcatagaaaactaagttattaatgaacttgattgtattgtctctctgtttgtt
+aaactcgattacagattgatgcacatcgttctccattggctgcgattgcactgtcttcaa
+atggaatgtacattgctacaggatctgagcaaggaaccttgatccgagtccatcttgttt
+cagaagcaactaaggtgaatagtttgctcttttaatacatcaccattttgtttttctaca
+gattcttaatcgtttctttcctctgtttgcagtcatatagtttcaggagaggaacatacc
+catctactatatattcactgtcttttggaccatcgacacagcttccagatatattaattg
+caactagttcttcaggctccattcatgccttctctttaagtttggccataaaccaaaggt
+taggattaagaatcacactcttacttcccttatacatactgtgattcctaacatttgtaa
+gagtttttcagaagcaaaaggtctactagctttcttggatcggttcttcccgacagtgtg
+agtgatgcactagatccagctcatcatcatgtgcttcaaaacgcagtttcttccgggatt
+agaaggtgaaagttaattcttttagacgctgctaatgacctatcaggttatattccccaa
+gaggtttattgtctgtctcttgcttgtgtgtacagttatgccgtggttaggaagatagac
+aaacttgaaggaacatcatctccatctcattttacatctcttaggtaagattttaggata
+tcttcattttgaaaccatggttacatgacaagttttgataatcttttacctttcacgttc
+ttttcagagcaacggtatcggtgatcacttataacggatatttccaggagtatacgctaa
+gtatcaataacaagaatgagtctctatggacactggaacgtgaattcaatctcttctcca
+taaccaccgggtgatgtatacaaccaaatatcaaatatatgaaagtactgggcaactttt
+ttgtatgtaacaatttttgtaccttgggttcattaagaatatgtttatagtctcatgttc
+tttggttattcgcaaatataattagctcttccgtgctattactgtatcttaatctt
+
+# Checar - Align two or more sequences
+# Checar #Organisms
+# Checar resultados y la extracción
+
+
+ 
